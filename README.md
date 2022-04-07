@@ -22,5 +22,8 @@
 ![](diploma/diploma_cover_ru.jpg)
 ![](diploma/diploma_sprints_ru.jpg)
 
+[Версия диплома в PDF](https://github.com/kruspe2009/yandex_praktikum_da/blob/main/diploma/diploma_ru.pdf)
+
+
 
 
